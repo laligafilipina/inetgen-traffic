@@ -1,5 +1,5 @@
-# inetgen-traffic
-customizable internet traffic generator simplified using vulnerable websites through open redirect
+# [ inetgen-traffic ]
+Customizable internet traffic generator simplified using vulnerable websites through open redirect
 which can be switched to use proxies using the provided open source api,vpn configuration file is 
 already provided for additional privacy purposes.
 
