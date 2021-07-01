@@ -5,4 +5,5 @@ already provided for additional privacy purposes.
 
 ![screenshot](https://github.com/maxanthonypablea/inetgen-traffic/blob/main/images/poc.png)
 
-`Note!` Some proxies might not work which you can configure the script manually.
+`Note!` Some proxies might not work which you can configure the script manually and generating tons amount of traffic
+can lead to ip blacklist.
